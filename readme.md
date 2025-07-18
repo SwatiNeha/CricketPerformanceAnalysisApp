@@ -2,7 +2,7 @@
 
 
 
-![CPAA Banner](https://www.espncricinfo.com/)
+![CPAA](https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg)
 
 
 
