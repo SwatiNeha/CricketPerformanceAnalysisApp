@@ -90,33 +90,33 @@ Whether you're a cricket fan, analyst, or researcher, CPAA gives you a visually 
 
 \### Home \& Overview
 
-!\[Home](D:\\VUW Course\\DATA-472\\DATA-472\\My\_project\\My\_project\\image\\Home.png)
+!\[Home](image\\Home.png)
 
 
 
 \### Batsman Analysis
 
-!\[Batsman Analysis](D:\\VUW Course\\DATA-472\\DATA-472\\My\_project\\My\_project\\image\\BatsmanAnalysis.png)
+!\[Batsman Analysis](image\\BatsmanAnalysis.png)
 
 
 
 \### Bowler Analysis
 
-!\[Bowler Analysis](D:\\VUW Course\\DATA-472\\DATA-472\\My\_project\\My\_project\\image\\BowlerAnalysis.png)
+!\[Bowler Analysis](image\\BowlerAnalysis.png)
 
 
 
 \### Relative Performance
 
-!\[Relative Performance Batsman](D:\\VUW Course\\DATA-472\\DATA-472\\My\_project\\My\_project\\image\\BatsmanRelPer.png)
+!\[Relative Performance Batsman](image\\BatsmanRelPer.png)
 
-!\[Relative Performance Bowler](D:\\VUW Course\\DATA-472\\DATA-472\\My\_project\\My\_project\\image\\BowlerRelPer.png)
+!\[Relative Performance Bowler](image\\BowlerRelPer.png)
 
 
 
 \### Current Status (Form Analysis)
 
-!\[Current Status](D:\\VUW Course\\DATA-472\\DATA-472\\My\_project\\My\_project\\image\\Form.png)
+!\[Current Status](image\\Form.png)
 
 
 
