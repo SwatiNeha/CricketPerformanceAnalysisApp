@@ -1,0 +1,101 @@
+,Overs,Mdns,Runs,Wkts,Econ,Pos,Inns,Opposition,Ground,Start Date
+1,4,0,28,2,7,1,1,v England,Manchester,23-Jun-15
+2,4,0,24,2,6,4,1,v Sri Lanka,Auckland,10-Jan-16
+3,4,0,14,2,3.5,5,1,v Pakistan,Auckland,15-Jan-16
+4,3,0,29,1,9.66,1,1,v Pakistan,Hamilton,17-Jan-16
+5,1,0,7,0,7,4,2,v Pakistan,Wellington,22-Jan-16
+6,4,0,11,4,2.75,3,2,v India,Nagpur,15-Mar-16
+7,4,0,30,2,7.5,5,2,v Australia,Dharamsala,18-Mar-16
+8,4,0,29,2,7.25,1,2,v Pakistan,Mohali,22-Mar-16
+9,3,0,16,1,5.33,3,2,v Bangladesh,Eden Gardens,26-Mar-16
+10,3.1,0,28,1,8.84,4,2,v England,Delhi,30-Mar-16
+11,4,0,20,1,5,5,1,v Bangladesh,Napier,03-Jan-17
+12,3,0,14,1,4.66,1,2,v Bangladesh,Mount Maunganui,06-Jan-17
+13,4,0,37,1,9.25,1,2,v Bangladesh,Mount Maunganui,08-Jan-17
+14,4,0,40,0,10,4,1,v South Africa,Auckland,17-Feb-17
+15,4,0,30,0,7.5,1,1,v India,Delhi,01-Nov-17
+16,4,0,31,1,7.75,4,2,v India,Rajkot,04-Nov-17
+17,2,0,16,0,8,2,1,v India,Thiruvananthapuram,07-Nov-17
+18,4,0,21,1,5.25,5,2,v West Indies,Nelson,29-Dec-17
+19,TDNB,-,-,-,-,-,-,v West Indies,Mount Maunganui,01-Jan-18
+20,2,0,16,0,8,4,2,v West Indies,Mount Maunganui,03-Jan-18
+21,4,0,15,2,3.75,6,1,v Pakistan,Wellington,22-Jan-18
+22,2,0,30,0,15,5,1,v Pakistan,Auckland,25-Jan-18
+23,4,0,24,2,6,5,1,v Pakistan,Mount Maunganui,28-Jan-18
+24,2,0,20,0,10,3,2,v Australia,Sydney,03-Feb-18
+25,4,0,29,2,7.25,2,2,v England,Wellington,13-Feb-18
+26,2,0,32,0,16,2,1,v England,Hamilton,18-Feb-18
+27,3.4,0,29,1,7.9,4,2,v Australia,Auckland,21-Feb-18
+28,3,0,27,1,9,5,2,v Sri Lanka,Auckland,11-Jan-19
+29,4,0,24,2,6,4,2,v India,Wellington,06-Feb-19
+30,2,0,16,0,8,4,2,v India,Auckland,08-Feb-19
+31,3,0,32,2,10.66,1,2,v India,Hamilton,10-Feb-19
+32,4,0,22,1,5.5,4,1,v Sri Lanka,Pallekele,01-Sep-19
+33,4,0,34,0,8.5,4,1,v Sri Lanka,Pallekele,03-Sep-19
+34,4,1,12,3,3,3,1,v Sri Lanka,Pallekele,06-Sep-19
+35,4,0,23,3,5.75,4,2,v England,Christchurch,01-Nov-19
+36,4,0,25,3,6.25,3,2,v England,Wellington,03-Nov-19
+37,4,0,41,1,10.25,5,2,v England,Nelson,05-Nov-19
+38,4,0,32,2,8,3,1,v England,Napier,08-Nov-19
+39,2,0,20,2,10,3,2,v England,Auckland,10-Nov-19
+40,4,0,50,1,12.5,2,2,v India,Auckland,24-Jan-20
+41,4,0,19,0,4.75,4,2,v India,Auckland,26-Jan-20
+42,4,0,37,1,9.25,4,1,v India,Hamilton,29-Jan-20
+43,4,0,26,1,6.5,3,1,v India,Wellington,31-Jan-20
+44,4,0,36,0,9,5,1,v India,Mount Maunganui,02-Feb-20
+45,2,0,23,0,11.5,5,1,v West Indies,Auckland,27-Nov-20
+46,3,0,41,2,13.66,4,2,v West Indies,Mount Maunganui,29-Nov-20
+47,1,0,12,0,12,1,1,v West Indies,Mount Maunganui,30-Nov-20
+48,4,0,18,0,4.5,1,1,v Pakistan,Auckland,18-Dec-20
+49,3.3,0,29,1,8.28,6,2,v Australia,Christchurch,22-Feb-21
+50,4,0,31,4,7.75,4,2,v Australia,Dunedin,25-Feb-21
+51,4,0,16,1,4,3,1,v Australia,Wellington,05-Mar-21
+52,4,0,21,0,5.25,2,1,v Australia,Wellington,07-Mar-21
+53,4,0,33,1,8.25,1,2,v Pakistan,Sharjah,26-Oct-21
+54,4,0,15,0,3.75,3,1,v India,Dubai (DICS),31-Oct-21
+55,4,0,23,0,5.75,4,2,v Scotland,Dubai (DICS),03-Nov-21
+56,4,0,20,1,5,4,2,v Namibia,Sharjah,05-Nov-21
+57,2,0,27,0,13.5,5,1,v Afghanistan,Abu Dhabi,07-Nov-21
+58,1,0,8,0,8,5,1,v England,Abu Dhabi,10-Nov-21
+59,3,0,23,0,7.66,5,2,v Australia,Dubai (DICS),14-Nov-21
+60,4,0,19,1,4.75,4,2,v India,Jaipur,17-Nov-21
+61,4,0,33,0,8.25,3,2,v India,Ranchi,19-Nov-21
+62,4,0,27,3,6.75,4,1,v India,Eden Gardens,21-Nov-21
+63,4,0,36,2,9,4,2,v Ireland,Belfast,18-Jul-22
+64,4,0,25,0,6.25,1,2,v Ireland,Belfast,20-Jul-22
+65,3,0,28,0,9.33,4,1,v Ireland,Belfast,22-Jul-22
+66,4,0,23,2,5.75,6,2,v Scotland,Edinburgh,27-Jul-22
+67,3,0,19,1,6.33,5,2,v Scotland,Edinburgh,29-Jul-22
+68,4,0,24,1,6,5,2,v Netherlands,The Hague,04-Aug-22
+69,4,0,31,0,7.75,4,1,v Netherlands,The Hague,05-Aug-22
+70,4,0,19,3,4.75,3,2,v West Indies,Kingston,10-Aug-22
+71,4,0,15,3,3.75,3,2,v West Indies,Kingston,12-Aug-22
+72,4,0,30,0,7.5,2,2,v West Indies,Kingston,14-Aug-22
+73,4,0,27,2,6.75,2,1,v Pakistan,Christchurch,11-Oct-22
+74,4,0,31,3,7.75,3,2,v Australia,Sydney,22-Oct-22
+75,4,0,21,2,5.25,4,2,v Sri Lanka,Sydney,29-Oct-22
+76,4,0,25,1,6.25,3,1,v England,Brisbane,01-Nov-22
+77,4,0,26,2,6.5,4,2,v Ireland,Adelaide,04-Nov-22
+78,4,0,26,1,6.5,4,2,v Pakistan,Sydney,09-Nov-22
+79,3,0,27,0,9,6,1,v India,Mount Maunganui,20-Nov-22
+80,1,0,5,0,5,5,2,v India,Napier,22-Nov-22
+81,4,1,11,2,2.75,3,2,v India,Ranchi,27-Jan-23
+82,4,0,20,0,5,3,2,v India,Lucknow,29-Jan-23
+83,4,0,37,0,9.25,6,1,v India,Ahmedabad,01-Feb-23
+84,4,0,22,2,5.5,4,2,v U.A.E.,Dubai (DICS),17-Aug-23
+85,3,0,26,1,8.66,3,2,v U.A.E.,Dubai (DICS),19-Aug-23
+86,4,0,21,1,5.25,4,2,v U.A.E.,Dubai (DICS),20-Aug-23
+87,3,0,30,0,10,4,2,v England,Chester-le-Street,30-Aug-23
+88,4,0,36,1,9,3,1,v England,Manchester,01-Sep-23
+89,3,0,20,1,6.66,4,2,v England,Birmingham,03-Sep-23
+90,4,0,30,3,7.5,3,1,v England,Nottingham,05-Sep-23
+91,4,0,16,1,4,6,2,v Bangladesh,Napier,27-Dec-23
+92,TDNB,-,-,-,-,-,-,v Bangladesh,Mount Maunganui,29-Dec-23
+93,4,0,16,4,4,4,1,v Bangladesh,Mount Maunganui,31-Dec-23
+94,4,0,47,0,11.75,3,2,v Pakistan,Hamilton,14-Jan-24
+95,4,0,26,1,6.5,4,2,v Pakistan,Dunedin,17-Jan-24
+96,4,0,23,0,5.75,5,1,v Pakistan,Christchurch,19-Jan-24
+97,4,0,30,0,7.5,3,1,v Pakistan,Christchurch,21-Jan-24
+98,4,0,42,2,10.5,4,2,v Australia,Wellington,21-Feb-24
+99,4,0,35,2,8.75,5,1,v Australia,Auckland,23-Feb-24
+100,2,0,16,1,8,5,1,v Australia,Auckland,25-Feb-24

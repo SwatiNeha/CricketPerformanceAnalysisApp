@@ -1,0 +1,66 @@
+,Overs,Mdns,Runs,Wkts,Econ,Pos,Inns,Opposition,Ground,Start Date
+1,10,0,34,2,3.4,3,2,v India,Ahmedabad,05-Dec-11
+2,6,0,46,0,7.66,4,1,v India,Indore,08-Dec-11
+3,10,1,41,1,4.1,3,1,v India,Chennai,11-Dec-11
+4,10,0,24,1,2.4,5,1,v Australia,Kingstown,16-Mar-12
+5,8,1,27,4,3.37,5,1,v Australia,Kingstown,18-Mar-12
+6,9.5,1,32,3,3.25,3,1,v Australia,Kingstown,20-Mar-12
+7,10,0,21,1,2.1,3,2,v Australia,Gros Islet,23-Mar-12
+8,10,0,55,2,5.5,3,1,v Australia,Gros Islet,25-Mar-12
+9,10,0,47,1,4.7,3,1,v England,Southampton,16-Jun-12
+10,10,1,54,0,5.4,4,2,v England,The Oval,19-Jun-12
+11,10,2,26,2,2.6,3,1,v New Zealand,Kingston,05-Jul-12
+12,10,0,45,2,4.5,4,2,v New Zealand,Kingston,07-Jul-12
+13,10,0,28,2,2.8,4,1,v New Zealand,Basseterre,11-Jul-12
+14,10,1,20,2,2,4,2,v New Zealand,Basseterre,14-Jul-12
+15,10,1,27,5,2.7,4,2,v New Zealand,Basseterre,16-Jul-12
+16,8,1,39,1,4.87,4,2,v Bangladesh,Khulna,30-Nov-12
+17,10,1,48,0,4.8,4,1,v Bangladesh,Khulna,02-Dec-12
+18,10,0,37,4,3.7,3,1,v Bangladesh,Mirpur,05-Dec-12
+19,8,1,32,1,4,3,2,v Bangladesh,Mirpur,07-Dec-12
+20,10,1,38,3,3.8,4,2,v Bangladesh,Mirpur,08-Dec-12
+21,3,0,24,0,8,3,2,v Australia,Perth,01-Feb-13
+22,10,0,34,1,3.4,5,1,v Australia,Perth,03-Feb-13
+23,10,0,55,2,5.5,5,1,v Australia,Canberra,06-Feb-13
+24,10,1,34,2,3.4,4,2,v Australia,Sydney,08-Feb-13
+25,10,1,27,0,2.7,4,1,v Australia,Melbourne,10-Feb-13
+26,10,4,28,3,2.8,3,2,v Zimbabwe,St George's,22-Feb-13
+27,10,0,55,1,5.5,4,1,v Zimbabwe,St George's,24-Feb-13
+28,10,1,41,1,4.1,4,1,v Zimbabwe,St George's,26-Feb-13
+29,10,1,34,3,3.4,5,1,v Pakistan,The Oval,07-Jun-13
+30,10,0,49,2,4.9,3,2,v India,The Oval,11-Jun-13
+31,7,0,47,0,6.71,3,1,v South Africa,Cardiff,14-Jun-13
+32,10,0,40,4,4,5,1,v Sri Lanka,Kingston,28-Jun-13
+33,10,0,56,0,5.6,5,1,v India,Kingston,30-Jun-13
+34,5,1,35,0,7,5,1,v India,Port of Spain,05-Jul-13
+35,3,0,32,0,10.66,5,1,v Pakistan,Providence,14-Jul-13
+36,10,1,26,4,2.6,3,2,v Pakistan,Providence,16-Jul-13
+37,9,0,55,0,6.11,4,1,v Pakistan,Gros Islet,19-Jul-13
+38,7,0,29,0,4.14,3,2,v Pakistan,Gros Islet,21-Jul-13
+39,10,0,42,0,4.2,4,2,v Pakistan,Gros Islet,24-Jul-13
+40,10,1,57,1,5.7,4,2,v India,Kochi,21-Nov-13
+41,10,2,39,0,3.9,5,1,v India,Visakhapatnam,24-Nov-13
+42,10,1,32,1,3.2,4,2,v India,Kanpur,27-Nov-13
+43,10,2,28,1,2.8,4,1,v New Zealand,Auckland,26-Dec-13
+44,4,0,50,1,12.5,1,1,v New Zealand,Queenstown,01-Jan-14
+45,10,0,47,1,4.7,5,1,v New Zealand,Nelson,04-Jan-14
+46,5.5,0,31,0,5.31,4,2,v New Zealand,Hamilton,08-Jan-14
+47,10,1,36,2,3.6,3,2,v England,North Sound,28-Feb-14
+48,10,0,25,1,2.5,3,2,v England,North Sound,02-Mar-14
+49,10,1,52,1,5.2,5,1,v England,North Sound,05-Mar-14
+50,10,1,29,0,2.9,5,1,v Bangladesh,St George's,20-Aug-14
+51,7,0,13,3,1.85,4,2,v Bangladesh,St George's,22-Aug-14
+52,10,0,31,1,3.1,5,2,v Bangladesh,Basseterre,25-Aug-14
+53,6,0,21,3,3.5,2,2,v Sri Lanka,Colombo (RPS),01-Nov-15
+54,8,0,27,1,3.37,3,2,v Sri Lanka,Colombo (RPS),04-Nov-15
+55,7.3,1,24,0,3.2,2,2,v Sri Lanka,Pallekele,07-Nov-15
+56,9.5,0,27,6,2.74,4,1,v South Africa,Providence,03-Jun-16
+57,10,2,36,2,3.6,1,2,v Australia,Providence,05-Jun-16
+58,10,0,44,0,4.4,3,1,v Australia,Basseterre,13-Jun-16
+59,10,0,46,0,4.6,3,1,v South Africa,Basseterre,15-Jun-16
+60,10,0,49,0,4.9,5,2,v Australia,Bridgetown,21-Jun-16
+61,10,0,28,3,2.8,3,2,v South Africa,Bridgetown,24-Jun-16
+62,10,1,55,1,5.5,5,1,v Australia,Bridgetown,26-Jun-16
+63,10,0,58,1,5.8,5,1,v Pakistan,Sharjah,30-Sep-16
+64,8,0,39,1,4.87,4,1,v Pakistan,Sharjah,02-Oct-16
+65,10,0,47,1,4.7,5,1,v Pakistan,Abu Dhabi,05-Oct-16

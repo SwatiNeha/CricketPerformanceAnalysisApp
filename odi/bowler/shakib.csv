@@ -1,0 +1,248 @@
+,Overs,Mdns,Runs,Wkts,Econ,Pos,Inns,Opposition,Ground,Start Date
+1,10,0,39,1,3.9,5,1,v Zimbabwe,Harare,06-Aug-06
+2,10,1,32,2,3.2,6,1,v Kenya,Nairobi (Gym),12-Aug-06
+3,6.3,1,26,1,4,6,1,v Kenya,Nairobi (Gym),13-Aug-06
+4,8,0,28,0,3.5,6,1,v Kenya,Nairobi (Gym),15-Aug-06
+5,2,0,23,0,11.5,6,1,v Sri Lanka,Mohali,07-Oct-06
+6,5,0,12,0,2.4,5,2,v West Indies,Jaipur,11-Oct-06
+7,10,1,18,3,1.8,5,2,v Zimbabwe,Jaipur,13-Oct-06
+8,10,2,30,2,3,5,1,v Zimbabwe,Khulna,30-Nov-06
+9,10,0,44,2,4.4,5,1,v Zimbabwe,Bogra,03-Dec-06
+10,10,0,40,0,4,5,2,v Zimbabwe,Bogra,05-Dec-06
+11,10,1,32,2,3.2,5,1,v Zimbabwe,Mirpur,08-Dec-06
+12,7,0,29,0,4.14,4,1,v Zimbabwe,Mirpur,09-Dec-06
+13,10,4,13,1,1.3,5,1,v Scotland,Chattogram,15-Dec-06
+14,4,0,8,1,2,5,2,v Scotland,Mirpur,17-Dec-06
+15,10,0,40,1,4,5,2,v Zimbabwe,Harare,04-Feb-07
+16,6,0,27,1,4.5,5,2,v Zimbabwe,Harare,06-Feb-07
+17,10,0,29,1,2.9,5,2,v Zimbabwe,Harare,09-Feb-07
+18,10,0,42,1,4.2,6,1,v Zimbabwe,Harare,10-Feb-07
+19,8,1,36,1,4.5,4,1,v Bermuda,St John's,25-Feb-07
+20,10,1,36,2,3.6,6,2,v Canada,St John's,28-Feb-07
+21,10,0,44,0,4.4,4,1,v India,Port of Spain,17-Mar-07
+22,10,0,49,1,4.9,5,1,v Sri Lanka,Port of Spain,21-Mar-07
+23,3,0,12,2,4,5,1,v Bermuda,Port of Spain,25-Mar-07
+24,0.5,0,14,0,16.8,6,2,v Australia,North Sound,31-Mar-07
+25,3,0,33,0,11,5,2,v New Zealand,North Sound,02-Apr-07
+26,10,0,49,2,4.9,5,2,v South Africa,Providence,07-Apr-07
+27,6,0,19,0,3.16,5,2,v England,Bridgetown,11-Apr-07
+28,10,0,44,1,4.4,5,1,v Ireland,Bridgetown,15-Apr-07
+29,8,0,38,1,4.75,5,1,v West Indies,Bridgetown,19-Apr-07
+30,9,0,43,2,4.77,5,2,v India,Mirpur,10-May-07
+31,7,0,40,0,5.71,4,1,v India,Mirpur,12-May-07
+32,8,0,50,0,6.25,5,1,v Sri Lanka,Colombo (PSS),20-Jul-07
+33,DNB,-,-,-,-,-,2,v Sri Lanka,Colombo (RPS),23-Jul-07
+34,8,0,43,1,5.37,5,1,v Sri Lanka,Colombo (RPS),25-Jul-07
+35,9.4,0,56,3,5.79,5,2,v New Zealand,Auckland,26-Dec-07
+36,10,0,55,0,5.5,5,1,v New Zealand,Napier,28-Dec-07
+37,1,0,16,0,16,3,2,v New Zealand,Queenstown,31-Dec-07
+38,8.5,0,29,1,3.28,5,2,v South Africa,Chattogram,09-Mar-08
+39,8,0,28,0,3.5,5,2,v South Africa,Mirpur,12-Mar-08
+40,9.2,1,47,0,5.03,3,2,v South Africa,Mirpur,14-Mar-08
+41,10,1,38,1,3.8,4,1,v Ireland,Mirpur,18-Mar-08
+42,7,0,16,2,2.28,4,2,v Ireland,Mirpur,20-Mar-08
+43,10,1,46,2,4.6,5,2,v Ireland,Mirpur,22-Mar-08
+44,10,0,52,1,5.2,5,1,v Pakistan,Lahore,08-Apr-08
+45,5,0,29,1,5.8,4,2,v Pakistan,Faisalabad,11-Apr-08
+46,10,1,50,2,5,5,1,v Pakistan,Lahore,13-Apr-08
+47,9,1,34,1,3.77,4,2,v Pakistan,Multan,16-Apr-08
+48,10,0,52,0,5.2,4,1,v Pakistan,Karachi,19-Apr-08
+49,10,0,46,2,4.6,4,1,v Australia,Darwin,30-Aug-08
+50,6.4,0,38,2,5.7,4,2,v Australia,Darwin,03-Sep-08
+51,10,0,25,0,2.5,4,1,v Australia,Darwin,06-Sep-08
+52,10,0,30,1,3,4,1,v New Zealand,Mirpur,09-Oct-08
+53,10,0,20,2,2,5,1,v New Zealand,Mirpur,11-Oct-08
+54,10,0,41,2,4.1,4,1,v New Zealand,Chattogram,14-Oct-08
+55,10,0,48,2,4.8,3,1,v South Africa,Potchefstroom,07-Nov-08
+56,10,0,67,0,6.7,5,1,v South Africa,Benoni,09-Nov-08
+57,10,3,23,3,2.3,4,1,v Zimbabwe,Mirpur,10-Jan-09
+58,6,0,24,0,4,4,1,v Sri Lanka,Mirpur,14-Jan-09
+59,10,2,22,2,2.2,3,2,v Sri Lanka,Mirpur,16-Jan-09
+60,10,4,11,3,1.1,3,2,v Zimbabwe,Mirpur,19-Jan-09
+61,10,3,24,0,2.4,4,1,v Zimbabwe,Mirpur,21-Jan-09
+62,8,4,15,3,1.87,3,1,v Zimbabwe,Mirpur,23-Jan-09
+63,8,0,26,1,3.25,4,2,v West Indies,Roseau,26-Jul-09
+64,10,2,42,1,4.2,3,1,v West Indies,Roseau,28-Jul-09
+65,9.4,2,28,0,2.89,4,1,v West Indies,Basseterre,31-Jul-09
+66,10,2,42,2,4.2,3,1,v Zimbabwe,Bulawayo,09-Aug-09
+67,9,0,39,2,4.33,2,2,v Zimbabwe,Bulawayo,11-Aug-09
+68,10,0,65,2,6.5,3,1,v Zimbabwe,Bulawayo,14-Aug-09
+69,9,0,70,0,7.77,3,1,v Zimbabwe,Bulawayo,16-Aug-09
+70,8,2,22,0,2.75,3,1,v Zimbabwe,Bulawayo,18-Aug-09
+71,10,0,49,0,4.9,3,2,v Zimbabwe,Mirpur,27-Oct-09
+72,9,1,24,1,2.66,3,1,v Zimbabwe,Mirpur,29-Oct-09
+73,7,1,32,0,4.57,3,1,v Zimbabwe,Mirpur,31-Oct-09
+74,6.5,1,8,3,1.17,4,1,v Zimbabwe,Chattogram,03-Nov-09
+75,10,1,29,3,2.9,3,1,v Zimbabwe,Chattogram,05-Nov-09
+76,10,0,43,0,4.3,3,2,v Sri Lanka,Mirpur,04-Jan-10
+77,10,0,45,1,4.5,4,2,v India,Mirpur,07-Jan-10
+78,8,2,27,0,3.37,4,2,v Sri Lanka,Mirpur,08-Jan-10
+79,10,0,58,1,5.8,4,2,v India,Mirpur,11-Jan-10
+80,9,0,62,1,6.88,4,1,v New Zealand,Napier,05-Feb-10
+81,3,0,13,0,4.33,4,2,v New Zealand,Dunedin,08-Feb-10
+82,10,0,33,4,3.3,4,2,v New Zealand,Christchurch,11-Feb-10
+83,10,1,42,1,4.2,3,2,v England,Mirpur,28-Feb-10
+84,10,2,32,3,3.2,5,2,v England,Mirpur,02-Mar-10
+85,10,0,45,1,4.5,4,1,v England,Chattogram,05-Mar-10
+86,10,0,49,2,4.9,3,2,v India,Dambulla,16-Jun-10
+87,10,0,49,1,4.9,4,1,v Sri Lanka,Dambulla,18-Jun-10
+88,10,0,73,2,7.3,6,1,v Pakistan,Dambulla,21-Jun-10
+89,10,0,35,2,3.5,4,2,v England,Nottingham,08-Jul-10
+90,10,0,40,2,4,5,2,v England,Bristol,10-Jul-10
+91,10,0,75,0,7.5,5,1,v England,Birmingham,12-Jul-10
+92,10,0,52,1,5.2,5,2,v Ireland,Belfast,15-Jul-10
+93,9,1,21,2,2.33,4,1,v Ireland,Belfast,16-Jul-10
+94,5,0,36,2,7.2,4,2,v Netherlands,Glasgow,20-Jul-10
+95,8,0,41,4,5.12,5,2,v New Zealand,Mirpur,05-Oct-10
+96,9,1,45,2,5,4,1,v New Zealand,Mirpur,11-Oct-10
+97,10,0,54,3,5.4,4,2,v New Zealand,Mirpur,14-Oct-10
+98,10,1,35,2,3.5,5,2,v New Zealand,Mirpur,17-Oct-10
+99,10,0,37,1,3.7,5,1,v Zimbabwe,Mirpur,01-Dec-10
+100,9,0,39,4,4.33,4,1,v Zimbabwe,Mirpur,03-Dec-10
+101,9,0,57,1,6.33,4,2,v Zimbabwe,Mirpur,06-Dec-10
+102,10,0,58,3,5.8,6,1,v Zimbabwe,Chattogram,12-Dec-10
+103,10,0,61,1,6.1,4,1,v India,Mirpur,19-Feb-11
+104,8,0,28,2,3.5,4,2,v Ireland,Mirpur,25-Feb-11
+105,0.2,0,1,0,3,6,2,v West Indies,Mirpur,04-Mar-11
+106,10,0,49,2,4.9,6,1,v England,Chattogram,11-Mar-11
+107,8,0,38,1,4.75,3,1,v Netherlands,Chattogram,14-Mar-11
+108,10,0,46,2,4.6,6,1,v South Africa,Mirpur,19-Mar-11
+109,10,0,34,0,3.4,5,1,v Australia,Mirpur,09-Apr-11
+110,7,1,35,1,5,3,2,v Australia,Mirpur,11-Apr-11
+111,7,0,48,0,6.85,3,1,v Australia,Mirpur,13-Apr-11
+112,10,0,48,1,4.8,4,2,v Zimbabwe,Harare,12-Aug-11
+113,8,1,31,0,3.87,4,2,v Zimbabwe,Harare,14-Aug-11
+114,6,0,46,2,7.66,6,1,v Zimbabwe,Harare,16-Aug-11
+115,6,0,25,1,4.16,5,1,v Zimbabwe,Bulawayo,19-Aug-11
+116,7,0,26,2,3.71,4,2,v Zimbabwe,Bulawayo,21-Aug-11
+117,10,0,50,0,5,4,1,v West Indies,Mirpur,13-Oct-11
+118,10,1,30,2,3,3,2,v West Indies,Mirpur,15-Oct-11
+119,5,0,16,4,3.2,4,1,v West Indies,Chattogram,18-Oct-11
+120,9.4,3,42,2,4.34,3,2,v Pakistan,Mirpur,01-Dec-11
+121,10,0,27,1,2.7,3,1,v Pakistan,Mirpur,03-Dec-11
+122,10,2,21,1,2.1,4,1,v Pakistan,Chattogram,06-Dec-11
+123,10,0,41,2,4.1,3,1,v Pakistan,Mirpur,11-Mar-12
+124,10,0,63,0,6.3,4,1,v India,Mirpur,16-Mar-12
+125,10,1,56,2,5.6,5,1,v Sri Lanka,Mirpur,20-Mar-12
+126,10,1,39,2,3.9,5,1,v Pakistan,Mirpur,22-Mar-12
+127,3,0,27,0,9,4,2,v Zimbabwe,Bulawayo,03-May-13
+128,9,0,42,1,4.66,5,2,v Zimbabwe,Bulawayo,05-May-13
+129,9,1,43,0,4.77,5,2,v Zimbabwe,Bulawayo,08-May-13
+130,7,0,29,2,4.14,3,1,v Sri Lanka,Mirpur,17-Feb-14
+131,10,1,46,1,4.6,4,1,v Sri Lanka,Mirpur,20-Feb-14
+132,10,2,53,1,5.3,3,2,v Pakistan,Mirpur,04-Mar-14
+133,10,0,27,0,2.7,3,2,v Sri Lanka,Mirpur,06-Mar-14
+134,6,0,27,2,4.5,3,2,v India,Mirpur,15-Jun-14
+135,2.3,0,8,1,3.2,5,1,v India,Mirpur,17-Jun-14
+136,7.2,0,27,3,3.68,4,1,v India,Mirpur,19-Jun-14
+137,10,0,41,4,4.1,4,2,v Zimbabwe,Chattogram,21-Nov-14
+138,8,2,18,1,2.25,5,2,v Zimbabwe,Chattogram,23-Nov-14
+139,7,1,19,1,2.71,6,2,v Zimbabwe,Mirpur,26-Nov-14
+140,10,1,28,2,2.8,3,2,v Zimbabwe,Mirpur,28-Nov-14
+141,7,1,30,3,4.28,3,1,v Zimbabwe,Mirpur,01-Dec-14
+142,8.5,0,43,2,4.86,4,2,v Afghanistan,Canberra,18-Feb-15
+143,10,0,55,0,5.5,4,1,v Sri Lanka,Melbourne,26-Feb-15
+144,10,0,46,1,4.6,2,1,v Scotland,Nelson,05-Mar-15
+145,10,0,41,0,4.1,4,2,v England,Adelaide,09-Mar-15
+146,8.5,1,55,4,6.22,1,2,v New Zealand,Hamilton,13-Mar-15
+147,10,0,58,1,5.8,6,1,v India,Melbourne,19-Mar-15
+148,9.2,0,45,1,4.82,4,2,v Pakistan,Mirpur,17-Apr-15
+149,10,0,51,2,5.1,6,1,v Pakistan,Mirpur,19-Apr-15
+150,10,0,34,2,3.4,6,1,v Pakistan,Mirpur,22-Apr-15
+151,8,0,33,2,4.12,6,2,v India,Mirpur,18-Jun-15
+152,7,0,33,0,4.71,6,1,v India,Mirpur,21-Jun-15
+153,9,1,33,1,3.66,6,1,v India,Mirpur,24-Jun-15
+154,5,1,27,0,5.4,4,2,v South Africa,Mirpur,10-Jul-15
+155,10,0,30,0,3,3,1,v South Africa,Mirpur,12-Jul-15
+156,8,0,33,3,4.12,3,1,v South Africa,Chattogram,15-Jul-15
+157,10,0,47,5,4.7,3,2,v Zimbabwe,Mirpur,07-Nov-15
+158,10,0,26,2,2.6,3,2,v Afghanistan,Mirpur,25-Sep-16
+159,10,0,47,4,4.7,2,2,v Afghanistan,Mirpur,28-Sep-16
+160,6,0,34,0,5.66,3,2,v Afghanistan,Mirpur,01-Oct-16
+161,10,0,59,2,5.9,3,1,v England,Mirpur,07-Oct-16
+162,9,0,50,1,5.55,1,2,v England,Mirpur,09-Oct-16
+163,8,0,45,0,5.62,3,2,v England,Chattogram,12-Oct-16
+164,10,0,69,3,6.9,4,1,v New Zealand,Christchurch,26-Dec-16
+165,10,0,45,2,4.5,4,1,v New Zealand,Nelson,29-Dec-16
+166,8,0,55,0,6.87,4,2,v New Zealand,Nelson,31-Dec-16
+167,8,0,33,1,4.12,4,2,v Sri Lanka,Dambulla,25-Mar-17
+168,10,0,59,0,5.9,5,1,v Sri Lanka,Dambulla,28-Mar-17
+169,8,0,41,0,5.12,6,1,v Sri Lanka,Colombo (SSC),01-Apr-17
+170,TDNB,-,-,-,-,-,-,v Ireland,Dublin (Malahide),12-May-17
+171,10,1,50,0,5,2,2,v New Zealand,Dublin,17-May-17
+172,9,0,38,1,4.22,5,1,v Ireland,Dublin (Malahide),19-May-17
+173,8,0,41,2,5.12,5,1,v New Zealand,Dublin,24-May-17
+174,8,0,62,0,7.75,2,2,v England,The Oval,01-Jun-17
+175,DNB,-,-,-,-,-,2,v Australia,The Oval,05-Jun-17
+176,10,0,52,0,5.2,5,1,v New Zealand,Cardiff,09-Jun-17
+177,9,0,54,0,6,5,2,v India,Birmingham,15-Jun-17
+178,8,0,48,0,6,4,2,v South Africa,Kimberley,15-Oct-17
+179,10,0,60,2,6,3,1,v South Africa,Paarl,18-Oct-17
+180,10,0,56,0,5.6,4,1,v South Africa,East London,22-Oct-17
+181,10,0,43,3,4.3,1,1,v Zimbabwe,Mirpur,15-Jan-18
+182,8,1,47,3,5.87,5,2,v Sri Lanka,Mirpur,19-Jan-18
+183,9,2,34,3,3.77,1,2,v Zimbabwe,Mirpur,23-Jan-18
+184,1,0,10,0,10,5,2,v Sri Lanka,Mirpur,25-Jan-18
+185,5,0,20,0,4,6,1,v Sri Lanka,Mirpur,27-Jan-18
+186,7,0,43,0,6.14,6,2,v West Indies,Providence,22-Jul-18
+187,9,1,45,2,5,5,1,v West Indies,Providence,25-Jul-18
+188,10,0,45,0,4.5,7,2,v West Indies,Basseterre,28-Jul-18
+189,9.2,0,31,1,3.32,4,2,v Sri Lanka,Dubai (DICS),15-Sep-18
+190,10,1,42,4,4.2,5,1,v Afghanistan,Abu Dhabi,20-Sep-18
+191,9.2,0,44,1,4.71,4,2,v India,Dubai (DICS),21-Sep-18
+192,9,0,55,1,6.11,5,2,v Afghanistan,Abu Dhabi,23-Sep-18
+193,10,0,36,1,3.6,2,1,v West Indies,Mirpur,09-Dec-18
+194,10,0,28,0,2.8,1,2,v West Indies,Mirpur,11-Dec-18
+195,9,0,40,2,4.44,3,1,v West Indies,Sylhet,14-Dec-18
+196,10,0,33,1,3.3,4,1,v West Indies,Dublin,07-May-19
+197,10,1,27,1,2.7,5,1,v West Indies,Dublin (Malahide),13-May-19
+198,9,0,65,0,7.22,5,1,v Ireland,Dublin,15-May-19
+199,10,0,50,1,5,4,2,v South Africa,The Oval,02-Jun-19
+200,10,0,47,2,4.7,4,2,v New Zealand,The Oval,05-Jun-19
+201,10,0,71,0,7.1,1,1,v England,Cardiff,08-Jun-19
+202,8,0,54,2,6.75,6,1,v West Indies,Taunton,17-Jun-19
+203,6,0,50,0,8.33,3,1,v Australia,Nottingham,20-Jun-19
+204,10,1,29,5,2.9,4,2,v Afghanistan,Southampton,24-Jun-19
+205,10,0,41,1,4.1,4,1,v India,Birmingham,02-Jul-19
+206,10,0,57,0,5.7,5,1,v Pakistan,Lord's,05-Jul-19
+207,7.2,2,8,4,1.09,4,1,v West Indies,Mirpur,20-Jan-21
+208,10,0,30,2,3,5,1,v West Indies,Mirpur,22-Jan-21
+209,4.5,0,12,0,2.48,5,2,v West Indies,Chattogram,25-Jan-21
+210,10,0,44,1,4.4,5,2,v Sri Lanka,Mirpur,23-May-21
+211,9,0,38,2,4.22,5,2,v Sri Lanka,Mirpur,25-May-21
+212,10,0,48,0,4.8,6,1,v Sri Lanka,Mirpur,28-May-21
+213,9.5,3,30,5,3.05,3,2,v Zimbabwe,Harare,16-Jul-21
+214,10,0,42,2,4.2,5,1,v Zimbabwe,Harare,18-Jul-21
+215,10,0,46,1,4.6,5,1,v Zimbabwe,Harare,20-Jul-21
+216,9,1,50,2,5.55,3,1,v Afghanistan,Chattogram,23-Feb-22
+217,10,0,38,2,3.8,4,2,v Afghanistan,Chattogram,25-Feb-22
+218,10,0,47,1,4.7,3,2,v Afghanistan,Chattogram,28-Feb-22
+219,10,0,54,0,5.4,1,2,v South Africa,Centurion,18-Mar-22
+220,10,2,33,1,3.3,5,2,v South Africa,Johannesburg,20-Mar-22
+221,9,0,24,2,2.66,5,1,v South Africa,Centurion,23-Mar-22
+222,10,2,36,5,3.6,4,1,v India,Mirpur,04-Dec-22
+223,10,1,39,2,3.9,5,2,v India,Mirpur,07-Dec-22
+224,10,0,68,2,6.8,5,1,v India,Chattogram,10-Dec-22
+225,10,0,45,1,4.5,1,2,v England,Mirpur,01-Mar-23
+226,10,0,64,1,6.4,1,1,v England,Mirpur,03-Mar-23
+227,10,0,35,4,3.5,4,2,v England,Chattogram,06-Mar-23
+228,4,0,23,1,5.75,4,2,v Ireland,Sylhet,18-Mar-23
+229,TDNB,-,-,-,-,-,-,v Ireland,Sylhet,20-Mar-23
+230,DNB,-,-,-,-,-,1,v Ireland,Sylhet,23-Mar-23
+231,DNB,-,-,-,-,-,2,v Ireland,Chelmsford,09-May-23
+232,9,0,57,0,6.33,4,1,v Ireland,Chelmsford,12-May-23
+233,5,1,9,1,1.8,4,2,v Afghanistan,Chattogram,05-Jul-23
+234,10,0,50,2,5,4,1,v Afghanistan,Chattogram,08-Jul-23
+235,10,1,13,1,1.3,4,1,v Afghanistan,Chattogram,11-Jul-23
+236,10,2,29,2,2.9,3,2,v Sri Lanka,Pallekele,31-Aug-23
+237,8,0,44,0,5.5,4,2,v Afghanistan,Lahore,03-Sep-23
+238,5.3,0,31,0,5.63,5,2,v Pakistan,Lahore,06-Sep-23
+239,10,0,44,0,4.4,4,1,v Sri Lanka,Colombo (RPS),09-Sep-23
+240,10,2,43,1,4.3,4,2,v India,Colombo (RPS),15-Sep-23
+241,8,0,30,3,3.75,4,1,v Afghanistan,Dharamsala,07-Oct-23
+242,10,0,52,1,5.2,5,1,v England,Dharamsala,10-Oct-23
+243,10,0,54,1,5.4,4,2,v New Zealand,Chennai,13-Oct-23
+244,9,0,69,1,7.66,4,1,v South Africa,Wankhede,24-Oct-23
+245,10,1,37,1,3.7,3,1,v Netherlands,Eden Gardens,28-Oct-23
+246,5.3,0,30,0,5.45,5,2,v Pakistan,Eden Gardens,31-Oct-23
+247,10,0,57,2,5.7,4,1,v Sri Lanka,Delhi,06-Nov-23

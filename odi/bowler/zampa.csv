@@ -1,0 +1,100 @@
+,Overs,Mdns,Runs,Wkts,Econ,Pos,Inns,Opposition,Ground,Start Date
+1,10,0,57,2,5.7,4,1,v New Zealand,Wellington,06-Feb-16
+2,10,0,45,1,4.5,5,1,v New Zealand,Hamilton,08-Feb-16
+3,5.3,0,16,3,2.9,5,1,v West Indies,Providence,05-Jun-16
+4,10,0,46,1,4.6,4,1,v South Africa,Providence,07-Jun-16
+5,10,0,52,3,5.2,5,2,v South Africa,Basseterre,11-Jun-16
+6,7,0,60,2,8.57,6,2,v West Indies,Basseterre,13-Jun-16
+7,10,0,50,1,5,5,2,v West Indies,Bridgetown,26-Jun-16
+8,7,0,34,0,4.85,5,1,v Sri Lanka,Colombo (RPS),21-Aug-16
+9,10,0,42,3,4.2,5,1,v Sri Lanka,Colombo (RPS),24-Aug-16
+10,10,0,38,3,3.8,5,1,v Sri Lanka,Dambulla,28-Aug-16
+11,8,0,30,1,3.75,5,1,v Sri Lanka,Dambulla,31-Aug-16
+12,6,0,43,2,7.16,5,1,v Sri Lanka,Pallekele,04-Sep-16
+13,10,1,37,3,3.7,5,1,v Ireland,Benoni,27-Sep-16
+14,5,0,44,1,8.8,6,2,v South Africa,Centurion,30-Sep-16
+15,8,0,54,0,6.75,5,1,v South Africa,Johannesburg,02-Oct-16
+16,7.2,1,55,1,7.5,5,2,v South Africa,Durban,05-Oct-16
+17,6.3,0,32,1,4.92,4,2,v South Africa,Gqeberha,09-Oct-16
+18,5,0,33,0,6.6,6,1,v South Africa,Cape Town,12-Oct-16
+19,10,0,66,2,6.6,5,2,v New Zealand,Sydney,04-Dec-16
+20,10,0,55,3,5.5,5,2,v Pakistan,Sydney,22-Jan-17
+21,9,0,61,1,6.77,5,2,v Pakistan,Adelaide,26-Jan-17
+22,7,0,41,0,5.85,5,1,v New Zealand,Hamilton,05-Feb-17
+23,4,1,13,2,3.25,6,1,v Bangladesh,The Oval,05-Jun-17
+24,8.2,0,52,0,6.24,6,2,v England,Birmingham,10-Jun-17
+25,10,0,66,1,6.6,5,1,v India,Chennai,17-Sep-17
+26,9,0,63,1,7,6,2,v India,Bengaluru,28-Sep-17
+27,8,0,59,2,7.37,5,2,v India,Nagpur,01-Oct-17
+28,10,0,72,0,7.2,5,2,v England,Melbourne,14-Jan-18
+29,9,0,55,1,6.11,5,1,v England,Sydney,21-Jan-18
+30,7,0,42,0,6,6,1,v England,Adelaide,26-Jan-18
+31,10,0,46,1,4.6,5,1,v England,Perth,28-Jan-18
+32,9,0,57,0,6.33,4,2,v South Africa,Adelaide,09-Nov-18
+33,6,0,32,0,5.33,5,1,v South Africa,Hobart,11-Nov-18
+34,10,0,34,0,3.4,5,2,v India,Melbourne,18-Jan-19
+35,10,0,49,2,4.9,4,2,v India,Hyderabad,02-Mar-19
+36,10,0,62,2,6.2,4,1,v India,Nagpur,05-Mar-19
+37,10,0,70,3,7,5,2,v India,Ranchi,08-Mar-19
+38,10,0,57,1,5.7,5,1,v India,Mohali,10-Mar-19
+39,10,1,46,3,4.6,5,2,v India,Delhi,13-Mar-19
+40,10,0,44,0,4.4,5,1,v Pakistan,Sharjah,22-Mar-19
+41,10,0,57,1,5.7,5,1,v Pakistan,Sharjah,24-Mar-19
+42,9.4,1,43,4,4.44,6,2,v Pakistan,Abu Dhabi,27-Mar-19
+43,10,0,49,1,4.9,5,2,v Pakistan,Dubai (DICS),29-Mar-19
+44,9,0,68,1,7.55,5,2,v Pakistan,Dubai (DICS),31-Mar-19
+45,8,0,60,3,7.5,5,1,v Afghanistan,Bristol,01-Jun-19
+46,10,0,58,1,5.8,5,2,v West Indies,Nottingham,06-Jun-19
+47,6,0,50,0,8.33,5,1,v India,The Oval,09-Jun-19
+48,9,0,68,1,7.55,6,2,v Bangladesh,Nottingham,20-Jun-19
+49,10,0,53,1,5.3,4,1,v India,Wankhede,14-Jan-20
+50,10,0,50,3,5,4,1,v India,Rajkot,17-Jan-20
+51,10,0,44,1,4.4,5,2,v India,Bengaluru,19-Jan-20
+52,10,0,48,0,4.8,6,1,v South Africa,Paarl,29-Feb-20
+53,10,0,48,2,4.8,5,2,v South Africa,Bloemfontein,04-Mar-20
+54,10,0,45,1,4.5,4,2,v South Africa,Potchefstroom,07-Mar-20
+55,8,0,50,2,6.25,5,2,v New Zealand,Sydney,13-Mar-20
+56,10,0,55,4,5.5,4,2,v England,Manchester,11-Sep-20
+57,10,0,36,3,3.6,6,1,v England,Manchester,13-Sep-20
+58,10,0,51,3,5.1,4,1,v England,Manchester,16-Sep-20
+59,10,0,54,4,5.4,4,2,v India,Sydney,27-Nov-20
+60,10,0,62,2,6.2,4,2,v India,Sydney,29-Nov-20
+61,10,0,45,1,4.5,6,1,v India,Canberra,02-Dec-20
+62,3.2,0,39,1,11.7,3,2,v West Indies,Bridgetown,20-Jul-21
+63,9,1,43,2,4.77,4,2,v West Indies,Bridgetown,22-Jul-21
+64,10,2,29,2,2.9,5,1,v West Indies,Bridgetown,26-Jul-21
+65,10,0,38,4,3.8,3,2,v Pakistan,Lahore,29-Mar-22
+66,10,0,71,2,7.1,5,2,v Pakistan,Lahore,31-Mar-22
+67,9,0,50,0,5.55,3,2,v Pakistan,Lahore,02-Apr-22
+68,10,0,57,3,5.7,5,1,v Zimbabwe,Townsville,28-Aug-22
+69,3.5,0,21,3,5.47,5,1,v Zimbabwe,Townsville,31-Aug-22
+70,8,0,32,0,4,5,2,v Zimbabwe,Townsville,03-Sep-22
+71,10,0,38,1,3.8,3,1,v New Zealand,Cairns,06-Sep-22
+72,9,0,35,5,3.88,4,2,v New Zealand,Cairns,08-Sep-22
+73,10,0,53,1,5.3,5,2,v New Zealand,Cairns,11-Sep-22
+74,10,0,55,3,5.5,6,1,v England,Adelaide,17-Nov-22
+75,9.5,1,45,4,4.57,5,2,v England,Sydney,19-Nov-22
+76,5.4,1,31,4,5.47,5,2,v England,Melbourne,22-Nov-22
+77,6,0,37,0,6.16,5,2,v India,Wankhede,17-Mar-23
+78,2,0,6,0,3,5,1,v India,Visakhapatnam,19-Mar-23
+79,10,0,45,4,4.5,4,2,v India,Chennai,22-Mar-23
+80,10,1,42,1,4.2,5,1,v South Africa,Bloemfontein,07-Sep-23
+81,9,1,48,4,5.33,5,2,v South Africa,Bloemfontein,09-Sep-23
+82,10,0,113,0,11.3,5,1,v South Africa,Centurion,15-Sep-23
+83,10,1,70,3,7,5,1,v South Africa,Johannesburg,17-Sep-23
+84,10,0,57,2,5.7,6,2,v India,Mohali,22-Sep-23
+85,10,0,67,1,6.7,5,1,v India,Indore,24-Sep-23
+86,8,0,53,0,6.62,6,2,v India,Chennai,08-Oct-23
+87,10,0,70,1,7,5,1,v South Africa,Lucknow,12-Oct-23
+88,8,1,47,4,5.87,5,1,v Sri Lanka,Lucknow,16-Oct-23
+89,10,0,53,4,5.3,4,2,v Pakistan,Bengaluru,20-Oct-23
+90,3,0,8,4,2.66,5,2,v Netherlands,Delhi,25-Oct-23
+91,10,0,74,3,7.4,5,2,v New Zealand,Dharamsala,28-Oct-23
+92,10,0,21,3,2.1,4,2,v England,Ahmedabad,04-Nov-23
+93,10,0,58,1,5.8,5,1,v Afghanistan,Wankhede,07-Nov-23
+94,10,0,32,2,3.2,5,1,v Bangladesh,Pune,11-Nov-23
+95,7,0,55,0,7.85,4,1,v South Africa,Eden Gardens,16-Nov-23
+96,10,0,44,1,4.4,5,1,v India,Ahmedabad,19-Nov-23
+97,10,0,56,1,5.6,5,1,v West Indies,Melbourne,02-Feb-24
+98,9.3,0,31,1,3.26,5,2,v West Indies,Sydney,04-Feb-24
+99,5,0,14,2,2.8,5,1,v West Indies,Canberra,06-Feb-24

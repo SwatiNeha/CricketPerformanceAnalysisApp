@@ -1,0 +1,166 @@
+,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground,Start Date
+1,0,7,9,0,0,0,4,bowled,1,v India,Dambulla,10-Aug-10
+2,0,3,2,0,0,0,4,caught,1,v Sri Lanka,Dambulla,13-Aug-10
+3,TDNB,-,-,-,-,-,-,-,-,v Sri Lanka,Dambulla,19-Aug-10
+4,13,33,27,1,0,48.14,6,bowled,2,v India,Dambulla,25-Aug-10
+5,108,193,132,6,2,81.81,5,caught,2,v Bangladesh,Mirpur,14-Oct-10
+6,0,7,6,0,0,0,5,caught,2,v Bangladesh,Mirpur,17-Oct-10
+7,25,73,51,0,0,49.01,3,caught,2,v India,Guwahati,28-Nov-10
+8,29,56,46,4,0,63.04,3,bowled,1,v India,Jaipur,01-Dec-10
+9,21,71,50,1,0,42,3,lbw,1,v India,Vadodara,04-Dec-10
+10,42,77,63,1,0,66.66,5,bowled,2,v Pakistan,Christchurch,29-Jan-11
+11,15,51,36,1,0,41.66,5,caught,1,v Pakistan,Napier,01-Feb-11
+12,34*,38,27,4,0,125.92,6,not out,1,v Canada,Wankhede,13-Mar-11
+13,5,12,8,0,0,62.5,5,stumped,2,v Sri Lanka,Wankhede,18-Mar-11
+14,38*,63,41,1,1,92.68,6,not out,1,v South Africa,Mirpur,25-Mar-11
+15,22,23,16,3,0,137.5,6,lbw,1,v Sri Lanka,Colombo (RPS),29-Mar-11
+16,DNB,-,-,-,-,-,-,-,2,v Zimbabwe,Harare,20-Oct-11
+17,14*,27,18,1,0,77.77,5,not out,2,v Zimbabwe,Harare,22-Oct-11
+18,100*,94,69,11,1,144.92,6,not out,1,v Zimbabwe,Bulawayo,25-Oct-11
+19,35,67,53,4,0,66.03,4,caught,1,v Zimbabwe,Dunedin,03-Feb-12
+20,4,7,8,0,0,50,5,caught,1,v Zimbabwe,Whangarei,06-Feb-12
+21,38,49,40,3,0,95,5,lbw,1,v Zimbabwe,Napier,09-Feb-12
+22,55,114,69,4,0,79.71,4,caught,1,v South Africa,Wellington,25-Feb-12
+23,13,35,18,0,0,72.22,4,caught,1,v South Africa,Napier,29-Feb-12
+24,22,69,43,1,0,51.16,4,run out,1,v South Africa,Auckland,03-Mar-12
+25,24,67,52,1,0,46.15,4,caught,1,v West Indies,Kingston,05-Jul-12
+26,58,103,65,4,1,89.23,4,lbw,2,v West Indies,Kingston,07-Jul-12
+27,9,26,17,1,0,52.94,4,bowled,1,v West Indies,Basseterre,11-Jul-12
+28,3,13,12,0,0,25,5,lbw,2,v West Indies,Basseterre,14-Jul-12
+29,69,122,84,5,1,82.14,5,caught,2,v West Indies,Basseterre,16-Jul-12
+30,DNB,-,-,-,-,-,-,-,1,v Sri Lanka,Pallekele,04-Nov-12
+31,5,9,6,0,0,83.33,7,caught,1,v Sri Lanka,Pallekele,06-Nov-12
+32,21,50,29,2,0,72.41,5,bowled,1,v Sri Lanka,Hambantota,10-Nov-12
+33,TDNB,-,-,-,-,-,-,-,-,v Sri Lanka,Hambantota,12-Nov-12
+34,5,24,15,1,0,33.33,4,caught,2,v South Africa,Paarl,19-Jan-13
+35,145*,207,136,17,1,106.61,3,not out,1,v South Africa,Kimberley,22-Jan-13
+36,6,17,17,1,0,35.29,3,caught,1,v South Africa,Potchefstroom,25-Jan-13
+37,74,136,99,6,0,74.74,3,run out,2,v England,Hamilton,17-Feb-13
+38,33,82,47,3,0,70.21,3,bowled,1,v England,Napier,20-Feb-13
+39,7,12,12,1,0,58.33,3,caught,1,v England,Auckland,23-Feb-13
+40,0,3,2,0,0,0,3,caught,2,v England,Lord's,31-May-13
+41,55,87,63,3,0,87.3,3,bowled,1,v England,Southampton,02-Jun-13
+42,19,41,28,1,0,67.85,3,lbw,2,v England,Nottingham,05-Jun-13
+43,16,29,22,1,0,72.72,3,lbw,2,v Sri Lanka,Cardiff,09-Jun-13
+44,18*,45,37,1,0,48.64,3,not out,2,v Australia,Birmingham,12-Jun-13
+45,67,92,54,8,1,124.07,3,caught,2,v England,Cardiff,16-Jun-13
+46,absent,-,-,-,-,-,-,-,2,v Bangladesh,Mirpur,29-Oct-13
+47,8,44,22,0,0,36.36,3,caught,1,v West Indies,Auckland,26-Dec-13
+48,47,61,55,3,0,85.45,3,caught,1,v West Indies,Nelson,04-Jan-14
+49,16,27,21,2,0,76.19,3,lbw,2,v West Indies,Hamilton,08-Jan-14
+50,71,110,88,7,0,80.68,3,caught,1,v India,Napier,19-Jan-14
+51,77,99,87,5,1,88.5,3,stumped,1,v India,Hamilton,22-Jan-14
+52,65,98,74,4,1,87.83,3,bowled,1,v India,Auckland,25-Jan-14
+53,60,100,82,2,2,73.17,3,run out,2,v India,Hamilton,28-Jan-14
+54,88,117,91,8,1,96.7,3,caught,1,v India,Wellington,31-Jan-14
+55,10,21,19,2,0,52.63,3,caught,1,v Pakistan,Dubai (DICS),08-Dec-14
+56,70*,127,91,7,0,76.92,3,not out,2,v Pakistan,Sharjah,12-Dec-14
+57,46,82,52,6,0,88.46,3,caught,2,v Pakistan,Sharjah,14-Dec-14
+58,123,150,105,12,0,117.14,3,bowled,1,v Pakistan,Abu Dhabi,17-Dec-14
+59,97,156,119,8,0,81.51,3,caught,1,v Pakistan,Abu Dhabi,19-Dec-14
+60,15,43,22,1,0,68.18,3,caught,2,v Sri Lanka,Christchurch,11-Jan-15
+61,103,155,107,6,1,96.26,3,bowled,2,v Sri Lanka,Nelson,20-Jan-15
+62,26,60,32,4,0,81.25,3,caught,1,v Sri Lanka,Dunedin,23-Jan-15
+63,97,141,95,8,2,102.1,3,run out,1,v Sri Lanka,Dunedin,25-Jan-15
+64,54,120,83,4,0,65.06,3,caught,2,v Sri Lanka,Wellington,29-Jan-15
+65,112,132,88,14,1,127.27,3,caught,1,v Pakistan,Napier,03-Feb-15
+66,57,70,65,5,1,87.69,3,caught,1,v Sri Lanka,Christchurch,14-Feb-15
+67,38,60,45,6,0,84.44,3,caught,2,v Scotland,Dunedin,17-Feb-15
+68,9*,23,22,1,0,40.9,3,not out,2,v England,Wellington,20-Feb-15
+69,45*,-,42,5,1,107.14,3,not out,2,v Australia,Auckland,28-Feb-15
+70,33,58,45,4,0,73.33,3,caught,2,v Afghanistan,Napier,08-Mar-15
+71,1,3,2,0,0,50,3,caught,2,v Bangladesh,Hamilton,13-Mar-15
+72,33,48,35,5,0,94.28,3,caught,1,v West Indies,Wellington,21-Mar-15
+73,6,12,11,1,0,54.54,3,bowled,2,v South Africa,Auckland,24-Mar-15
+74,12,52,33,1,0,36.36,3,caught,1,v Australia,Melbourne,29-Mar-15
+75,45,54,43,8,0,104.65,3,caught,2,v England,Birmingham,09-Jun-15
+76,93,121,88,12,1,105.68,3,caught,1,v England,The Oval,12-Jun-15
+77,118,159,113,12,1,104.42,3,caught,2,v England,Southampton,14-Jun-15
+78,90,118,70,12,1,128.57,3,caught,1,v England,Nottingham,17-Jun-15
+79,50,81,65,5,0,76.92,3,bowled,1,v England,Chester-le-Street,20-Jun-15
+80,97,124,102,11,1,95.09,3,bowled,1,v Zimbabwe,Harare,02-Aug-15
+81,DNB,-,-,-,-,-,-,-,2,v Zimbabwe,Harare,04-Aug-15
+82,90,126,109,8,1,82.56,3,caught,1,v Zimbabwe,Harare,07-Aug-15
+83,47,93,69,4,1,68.11,3,caught,2,v South Africa,Centurion,19-Aug-15
+84,7,12,13,1,0,53.84,3,bowled,2,v South Africa,Potchefstroom,23-Aug-15
+85,39,75,59,4,0,66.1,3,bowled,2,v South Africa,Durban,26-Aug-15
+86,59,102,73,7,0,80.82,3,caught,1,v Sri Lanka,Nelson,31-Dec-15
+87,12,15,12,1,0,100,3,caught,1,v Sri Lanka,Nelson,02-Jan-16
+88,61,91,72,7,0,84.72,3,caught,1,v Sri Lanka,Mount Maunganui,05-Jan-16
+89,10,55,17,0,0,58.82,3,bowled,1,v Pakistan,Wellington,25-Jan-16
+90,84,128,86,9,3,97.67,3,stumped,2,v Pakistan,Auckland,31-Jan-16
+91,0,8,8,0,0,0,3,caught,1,v Australia,Auckland,03-Feb-16
+92,60,100,74,5,1,81.08,3,caught,1,v Australia,Wellington,06-Feb-16
+93,18,38,28,1,0,64.28,3,bowled,1,v Australia,Hamilton,08-Feb-16
+94,3,15,9,0,0,33.33,3,caught,1,v India,Dharamsala,16-Oct-16
+95,118,183,128,14,1,92.18,3,caught,1,v India,Delhi,20-Oct-16
+96,22,27,27,3,0,81.48,3,lbw,1,v India,Mohali,23-Oct-16
+97,41,81,59,4,0,69.49,3,caught,1,v India,Ranchi,26-Oct-16
+98,27,55,40,4,0,67.5,3,caught,2,v India,Visakhapatnam,29-Oct-16
+99,9,29,16,2,0,56.25,3,caught,2,v Australia,Sydney,04-Dec-16
+100,81,148,80,5,2,101.25,3,caught,2,v Australia,Canberra,06-Dec-16
+101,13,21,12,2,0,108.33,3,lbw,2,v Australia,Melbourne,09-Dec-16
+102,31,48,36,5,0,86.11,3,caught,1,v Bangladesh,Christchurch,26-Dec-16
+103,14,-,35,2,0,40,3,caught,1,v Bangladesh,Nelson,29-Dec-16
+104,95*,178,116,9,1,81.89,3,not out,2,v Bangladesh,Nelson,31-Dec-16
+105,24,48,34,2,0,70.58,3,caught,1,v Australia,Auckland,30-Jan-17
+106,36,51,42,5,0,85.71,3,caught,1,v Australia,Hamilton,05-Feb-17
+107,59,73,53,4,2,111.32,3,bowled,1,v South Africa,Hamilton,19-Feb-17
+108,69,117,75,6,0,92,3,caught,1,v South Africa,Christchurch,22-Feb-17
+109,23,57,40,0,1,57.5,3,bowled,2,v South Africa,Wellington,25-Feb-17
+110,21,38,24,3,0,87.5,3,lbw,2,v South Africa,Hamilton,01-Mar-17
+111,9,28,16,1,0,56.25,3,run out,1,v South Africa,Auckland,04-Mar-17
+112,100,148,97,8,3,103.09,3,run out,1,v Australia,Birmingham,02-Jun-17
+113,87,132,98,8,0,88.77,3,caught,2,v England,Cardiff,06-Jun-17
+114,57,95,69,5,0,82.6,3,run out,1,v Bangladesh,Cardiff,09-Jun-17
+115,6,14,8,0,0,75,3,caught,2,v India,Wankhede,22-Oct-17
+116,3,15,14,0,0,21.42,3,lbw,1,v India,Pune,25-Oct-17
+117,64,86,84,8,0,76.19,3,caught,2,v India,Kanpur,29-Oct-17
+118,38,61,45,5,0,84.44,3,bowled,2,v West Indies,Whangarei,20-Dec-17
+119,115,158,117,8,1,98.29,3,caught,1,v Pakistan,Wellington,06-Jan-18
+120,19,40,28,2,0,67.85,3,caught,2,v Pakistan,Nelson,09-Jan-18
+121,73,138,101,7,0,72.27,3,caught,1,v Pakistan,Dunedin,13-Jan-18
+122,32,84,54,1,0,59.25,3,caught,2,v Pakistan,Hamilton,16-Jan-18
+123,22,50,36,0,0,61.11,3,caught,1,v Pakistan,Wellington,19-Jan-18
+124,8,29,23,1,0,34.78,3,caught,2,v England,Hamilton,25-Feb-18
+125,112*,202,143,6,2,78.32,3,not out,2,v England,Wellington,03-Mar-18
+126,45,64,48,3,1,93.75,3,caught,2,v England,Dunedin,07-Mar-18
+127,14,39,25,1,0,56,3,bowled,1,v England,Christchurch,10-Mar-18
+128,27,-,38,2,0,71.05,3,caught,1,v Pakistan,Abu Dhabi,07-Nov-18
+129,1,-,3,0,0,33.33,3,run out,1,v Pakistan,Abu Dhabi,09-Nov-18
+130,76,-,74,6,0,102.7,3,bowled,1,v Sri Lanka,Mount Maunganui,03-Jan-19
+131,1,-,9,0,0,11.11,3,caught,1,v Sri Lanka,Mount Maunganui,05-Jan-19
+132,55,-,65,6,1,84.61,3,caught,1,v Sri Lanka,Nelson,08-Jan-19
+133,64,138,81,7,0,79.01,3,caught,1,v India,Napier,23-Jan-19
+134,20,13,11,1,2,181.81,3,bowled,2,v India,Mount Maunganui,26-Jan-19
+135,28,62,48,4,0,58.33,3,caught,1,v India,Mount Maunganui,28-Jan-19
+136,11,23,18,2,0,61.11,3,caught,2,v India,Hamilton,31-Jan-19
+137,39,96,73,3,0,53.42,3,caught,2,v India,Wellington,03-Feb-19
+138,11,25,22,1,0,50,3,lbw,2,v Bangladesh,Napier,13-Feb-19
+139,65*,128,86,3,0,75.58,3,not out,2,v Bangladesh,Christchurch,16-Feb-19
+140,DNB,-,-,-,-,-,-,-,2,v Sri Lanka,Cardiff,01-Jun-19
+141,40,108,72,1,0,55.55,3,caught,2,v Bangladesh,The Oval,05-Jun-19
+142,79*,136,99,9,0,79.79,3,not out,2,v Afghanistan,Taunton,08-Jun-19
+143,106*,216,138,9,1,76.81,3,not out,2,v South Africa,Birmingham,19-Jun-19
+144,148,212,154,14,1,96.1,3,caught,1,v West Indies,Manchester,22-Jun-19
+145,41,114,69,4,0,59.42,3,caught,1,v Pakistan,Birmingham,26-Jun-19
+146,40,69,51,2,1,78.43,3,caught,2,v Australia,Lord's,29-Jun-19
+147,27,62,40,3,0,67.5,3,run out,2,v England,Chester-le-Street,03-Jul-19
+148,67,137,95,6,0,70.52,3,caught,1,v India,Manchester,09-Jul-19
+149,30,77,53,2,0,56.6,3,caught,1,v England,Lord's,14-Jul-19
+150,22,43,31,2,0,70.96,3,caught,2,v India,Mount Maunganui,11-Feb-20
+151,19,-,26,2,0,73.07,3,bowled,2,v Australia,Sydney,13-Mar-20
+152,34,-,50,4,0,68,3,caught,1,v West Indies,Bridgetown,17-Aug-22
+153,45,115,71,3,1,63.38,3,caught,1,v Australia,Cairns,06-Sep-22
+154,17,86,58,1,0,29.31,3,lbw,2,v Australia,Cairns,08-Sep-22
+155,27,82,56,1,0,48.21,3,run out,2,v Australia,Cairns,11-Sep-22
+156,94*,184,98,7,1,95.91,3,not out,2,v India,Auckland,25-Nov-22
+157,TDNB,-,-,-,-,-,-,-,-,v India,Hamilton,27-Nov-22
+158,0*,9,3,0,0,0,3,not out,2,v India,Christchurch,30-Nov-22
+159,26,66,39,3,0,66.66,3,bowled,1,v Pakistan,Karachi,09-Jan-23
+160,85,162,100,10,0,85,3,bowled,1,v Pakistan,Karachi,11-Jan-23
+161,53,106,68,2,0,77.94,3,run out,2,v Pakistan,Karachi,13-Jan-23
+162,78*,158,107,8,1,72.89,3,retired notout,2,v Bangladesh,Chennai,13-Oct-23
+163,95,111,79,10,2,120.25,3,caught,1,v Pakistan,Bengaluru,04-Nov-23
+164,14,26,15,2,0,93.33,3,bowled,2,v Sri Lanka,Bengaluru,09-Nov-23
+165,69,116,73,8,1,94.52,3,caught,2,v India,Wankhede,15-Nov-23
