@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="image/batballwick.avif" width="500">
+  <img src="image/batballwick.avif" width="400">
 </p>
 
 ## Overview
