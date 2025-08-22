@@ -1,10 +1,9 @@
 # CPAA: Shiny Analysis of Cricket
 
 
-
-![CPAA](image/batballwick.avif)
-
-
+<p align="center">
+  <img src="image/batballwick.avif" width="750">
+</p>
 
 ## Overview
 
